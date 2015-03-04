@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-		cout << " Createing a new branch is quick." << endl;
+		cout << " Createing a new branch is quick & simple." << endl;
 		return 0;
 }
